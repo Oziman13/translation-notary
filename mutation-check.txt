@@ -1,0 +1,2 @@
+unmodified contract passes; 106 mutants
+106 of 106 mutants caught
